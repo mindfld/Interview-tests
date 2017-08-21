@@ -1,6 +1,7 @@
 
 src/main/java/MyHashMap
-stc/test/java/MyHashMapTest
+
+src/test/java/MyHashMapTest
 
 
 
